@@ -1,0 +1,8 @@
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\bin\Debug\dungeon.exe.config
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\bin\Debug\dungeon.exe
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\bin\Debug\dungeon.pdb
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\obj\Debug\dungeon.csproj.AssemblyReference.cache
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\obj\Debug\dungeon.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\obj\Debug\dungeon.csproj.CoreCompileInputs.cache
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\obj\Debug\dungeon.exe
+C:\Users\kenda\Desktop\My Repo\dungeon\dungeon\obj\Debug\dungeon.pdb
